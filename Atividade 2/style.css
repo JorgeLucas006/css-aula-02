@@ -1,0 +1,11 @@
+#titulo {
+  text-align: center;
+}
+
+.cor {
+  color: purple;
+}
+
+p, ul {
+  font-size: 90px;
+}
